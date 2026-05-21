@@ -20,25 +20,25 @@ Each agent has a specialized role in the content creation pipeline.
 autonomous-content-pipeline/
 │
 ├── backend/
-│   ├── agents/
-│   │   ├── strategist.py
-│   │   ├── researcher.py
-│   │   ├── writer.py
-│   │   ├── seo_optimizer.py
-│   │   ├── social_adapter.py
-│   │   └── reviewer.py
-│   │
+│      ├── agents/
+│      │   ├── strategist.py
+│      │   ├── researcher.py
+│      │   ├── writer.py
+│      │   ├── seo_optimizer.py
+│      │   ├── social_adapter.py
+│      │   └── reviewer.py
+│      │
 │   ├── api/
-│   │   └── routes.py
+│      │   └── routes.py
 │   │
 │   ├── crews/
-│   │   └── content_crew.py
+│      │   └── content_crew.py
 │   │
 │   ├── config.py
 │   └── main.py
 │
 ├── frontend/
-│   └── app.py
+│      └── app.py
 │
 ├── .env (hidden)
 ├── requirements.txt
