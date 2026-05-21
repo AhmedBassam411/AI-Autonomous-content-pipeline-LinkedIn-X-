@@ -60,3 +60,24 @@ LinkedIn
 Twitter / X
 
 The generated content adapts automatically based on the selected platform.
+
+
+
+**Start Backend:**
+cd backend
+uvicorn main:app --reload
+
+Backend runs on:
+
+http://127.0.0.1:8000
+Start Frontend
+
+**Open a new terminal:**
+
+cd frontend
+streamlit run app.py
+
+Frontend runs on:
+
+http://localhost:8501
+
