@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-dotenv
+crewai
+crewai-tools
+langchain
+langchain-groq
+groq
+sqlalchemy
+psycopg2-binary
+streamlit
+requests
+pydantic
+python-multipart
