@@ -77,6 +77,7 @@ Start Frontend
 cd frontend
 streamlit run app.py
 
+
 Frontend runs on:
 
 http://localhost:8501
